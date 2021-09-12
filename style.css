@@ -1,0 +1,29 @@
+body{
+    margin: 20px 0;
+    font-weight: bold;
+    font-size: 1.25rem;
+    width: 300px;
+}
+
+form, p{
+    margin: 20px;
+}
+
+label{
+    width: 300px;
+    margin-top: 20px;
+    display: inline-block;
+
+}
+
+label span{
+    font-size: 0.5rem;
+}
+
+label.error{
+    color: red;
+    font-size: 0.5rem;
+    display: box;
+    margin-top: 5px;
+
+}
